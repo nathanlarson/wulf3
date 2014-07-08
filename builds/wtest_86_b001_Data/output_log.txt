@@ -1,0 +1,34 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M (ID=0xfe1)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\game\wtest\wtest\wulf3\builds\wtest_86_b001_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
