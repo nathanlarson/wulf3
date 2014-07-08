@@ -1,0 +1,15 @@
+7/2/2014 	– Downloaded Unity and Xamarin Studio (MonoDevelop)
+		- Download lava, forest floor, and mini tank assets
+7/3	- Watch general how to make a pong game in unity on youtube
+download bootcamp and angrybots multiplayer complete projects which use photon mutiplayer scripting.  Signed up for free photon account.
+	- Created simple scene with forest floor, lava mound with sphere and tank third person player controls.  Added directional light.  Made jumping higher.
+	- Downloaded Galaga style game project for reference.
+7/4	- debug full screen problems on windows.  86 and 86_64 still not working.
+tried to run mac build of demo project.  Does not run.  No error msg.
+7/7	- opened a github repo to put everything and share files.
+shared with justin
+7/8	- Skype call with Justin.  Showed me progress thus far.  
+	- We decided to go forward with Photon for multiplayer API.  We will start working with bootcamp and modify.
+	- Went over git and github.  Will use public repo for now and switch to private later.  
+	- Justin will upload some of his assets to repo
+	- I should work on tank shooting abilities.
