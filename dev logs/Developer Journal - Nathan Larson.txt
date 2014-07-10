@@ -1,4 +1,4 @@
-7/2/2014 	â€“ Downloaded Unity and Xamarin Studio (MonoDevelop)
+7/2/2014 	– Downloaded Unity and Xamarin Studio (MonoDevelop)
 		- Download lava, forest floor, and mini tank assets
 7/3	- Watch general how to make a pong game in unity on youtube
 download bootcamp and angrybots multiplayer complete projects which use photon mutiplayer scripting.  Signed up for free photon account.
@@ -13,9 +13,3 @@ shared with justin
 	- Went over git and github.  Will use public repo for now and switch to private later.  
 	- Justin will upload some of his assets to repo
 	- I should work on tank shooting abilities.
-7/9 - Updated new working base fixed alot of things
-	-Movement
-	-Firing
-	-Jumping
-	-Multiplayer Protocol
-	-justin---
